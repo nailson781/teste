@@ -1,0 +1,20 @@
+2020-03-19 19:28:57,779 - 5477:140723881905024 - OsInteraction:262 - DEBUG - returning port 53348
+2020-03-19 19:28:57,783 - 5477:140723881905024 - openport_app:135 - DEBUG - client pid:5477
+2020-03-19 19:28:57,784 - 5477:140723881905024 - OsInteraction:262 - DEBUG - returning port 53349
+2020-03-19 19:28:57,785 - 5477:140723881905024 - openport.services.config_service:41 - DEBUG - Manager port not found in config file. Starting manager on port 53349.
+2020-03-19 19:28:57,785 - 5477:140723881905024 - openport.services.config_service:41 - DEBUG - Manager port not found in config file. Starting manager on port 53349.
+2020-03-19 19:28:57,786 - 5477:140723881905024 - dbhandler:62 - DEBUG - db location: /root/.openport/openport.db
+2020-03-19 19:28:57,796 - 5477:140723881905024 - dbhandler:66 - DEBUG - db location: /root/.openport/openport.db
+2020-03-19 19:28:57,796 - 5477:140723881905024 - OsInteraction:309 - DEBUG - starting function with lock: /root/.openport/openport.db.lock
+2020-03-19 19:28:57,800 - 5477:140723881905024 - OsInteraction:321 - DEBUG - lock acquired: starting function
+2020-03-19 19:28:57,800 - 5477:140723881905024 - openport.services.migration_service:38 - DEBUG - update_if_needed
+2020-03-19 19:28:57,800 - 5477:140723881905024 - openport.services.migration_service:38 - DEBUG - update_if_needed
+2020-03-19 19:28:57,800 - 5477:140723881905024 - openport.services.migration_service:15 - DEBUG - alembic path: /usr/lib/openport/alembic
+2020-03-19 19:28:57,800 - 5477:140723881905024 - openport.services.migration_service:15 - DEBUG - alembic path: /usr/lib/openport/alembic
+2020-03-19 19:28:58,906 - 5477:140723881905024 - OsInteraction:324 - DEBUG - function done, releasing lock
+2020-03-19 19:28:58,911 - 5477:140723881905024 - OsInteraction:334 - DEBUG - lock released
+2020-03-19 19:28:58,912 - 5477:140723881905024 - openport_app:269 - DEBUG - db location: /root/.openport/openport.db
+2020-03-19 19:28:58,912 - 5477:140723881905024 - dbhandler:199 - DEBUG - get_shares_to_restart
+2020-03-19 19:28:58,913 - 5477:140723881905024 - dbhandler:86 - DEBUG - getting session
+2020-03-19 19:28:58,964 - 5477:140723881905024 - openport_app:206 - DEBUG - restarting shares - amount: 0
+2020-03-19 19:28:58,964 - 5477:140723881905024 - openport_app:285 - DEBUG - exiting
